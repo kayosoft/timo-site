@@ -1,7 +1,7 @@
 {
-    "name": "texap",
+    "name": "ktproperties",
     "version": "1.5.0",
-    "description": "React Next Software App & SaaS Startup Template",
+    "description": "Your trusted property agency",
     "main": "index.js",
     "scripts": {
         "dev": "next dev",
