@@ -24,8 +24,8 @@ const KeyFeatures = () => {
                 </p>
 
                 <div className="btn-box">
-                  <Link href="#">
-                    <a className="link-btn">See All Our Sites</a>
+                  <Link href="">
+                    <a className="link-btn">See All Our Estates</a>
                   </Link>
                 </div>
               </div>
@@ -39,13 +39,6 @@ const KeyFeatures = () => {
                       <i className="ri-eye-line"></i>
                     </div>
                     <h5>Buying and selling Land</h5>
-                    <p></p>
-                  </li>
-                  <li>
-                    <div className="icon bg2">
-                      <i className="ri-stack-line"></i>
-                    </div>
-                    <h5>Construction</h5>
                     <p></p>
                   </li>
                   <li>

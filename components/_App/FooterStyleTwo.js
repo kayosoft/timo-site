@@ -16,7 +16,7 @@ const FooterStyleTwo = () => {
                             <div className="single-footer-widget">
                                 <Link href="/">
                                     <a className="logo">
-                                        <img src="/images/about/logo.png" alt="logo" />
+                                        <img src="/images/about/logo-2.png" alt="logo" />
                                     </a>
                                 </Link>
 
@@ -36,21 +36,13 @@ const FooterStyleTwo = () => {
                                             <i className="ri-twitter-fill"></i>
                                         </a>
                                     </li>
-                                    <li>
-                                        <a href="https://www.linkedin.com/" target="_blank">
-                                            <i className="ri-linkedin-fill"></i>
-                                        </a>
-                                    </li>
+                                    
                                     <li>
                                         <a href="https://www.messenger.com/" target="_blank">
                                             <i className="ri-messenger-fill"></i>
                                         </a>
                                     </li>
-                                    <li>
-                                        <a href="https://github.com/" target="_blank">
-                                            <i className="ri-github-fill"></i>
-                                        </a>
-                                    </li>
+                                    
                                 </ul>
                             </div>
                         </div>
@@ -64,8 +56,8 @@ const FooterStyleTwo = () => {
                                         </Link>
                                     </li>
                                     <li>
-                                        <Link href="/">
-                                            <a>Projects</a>
+                                        <Link href="/estates">
+                                            <a>Our Estates</a>
                                         </Link>
                                     </li>
                                     
@@ -100,7 +92,7 @@ const FooterStyleTwo = () => {
                     </div>
                     
                     <div className="copyright-area">
-                        <p>Copyright &copy; {currentYear} <strong>Timothy</strong>. All Rights Reserved by <a href="#" target="_blank">KTPL</a></p>
+                        <p>Copyright &copy; {currentYear} <strong>Timothy Kalyango Properties</strong>. All Rights Reserved by <a href="#" target="_blank">KTPL</a></p>
                     </div>
                 </div>
             </div>

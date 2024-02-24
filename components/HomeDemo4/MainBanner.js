@@ -7,14 +7,11 @@ const MainBanner = () => {
             <div className="main-banner">
                 <div className="container">
                     <div className="content">
-                        <span className="sub-title">Get your 14 days free trail</span>
-                        <h1>The Revolutionary App That Makes Your Life Easier Than Others</h1>
+                        
+                        <h1>Own your land today</h1>
+                        <span className="sub-title">We have the best payment plans</span>
 
-                        <Link href="/sign-in">
-                            <a className="default-btn">Start Free Trial</a>
-                        </Link>
-
-                        <img src="/images/banner/banner-app3.png" alt="image" />
+                        <img src="/images/banner/land-4.jpg" alt="image" />
                     </div>
                 </div>
                 

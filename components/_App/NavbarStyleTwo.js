@@ -66,32 +66,11 @@ const NavbarStyleTwo = () => {
                   </li>
 
                   <li className="nav-item">
-                    <Link href="#">
-                      <a
-                        onClick={(e) => e.preventDefault()}
-                        className="dropdown-toggle nav-link"
-                      >
-                        Projects
+                    <Link href="/estates" activeClassName="active">
+                      <a onClick={toggleNavbar} className="nav-link">
+                        Our Estates
                       </a>
                     </Link>
-
-                    <ul className="dropdown-menu">
-                      <li className="nav-item">
-                        <Link href="#" activeClassName="active">
-                          <a onClick={toggleNavbar} className="nav-link">
-                            Bujuuko Estate
-                          </a>
-                        </Link>
-                      </li>
-
-                      <li className="nav-item">
-                        <Link href="#" activeClassName="active">
-                          <a onClick={toggleNavbar} className="nav-link">
-                            Buwambo Estate
-                          </a>
-                        </Link>
-                      </li>
-                    </ul>
                   </li>
 
                   <li className="nav-item">
@@ -104,11 +83,11 @@ const NavbarStyleTwo = () => {
                 </ul>
               </div>
 
-              <div className="others-options">
+              {/* <div className="others-options">
                 <Link href="/contact">
                   <a className="default-btn">Get Started</a>
                 </Link>
-              </div>
+              </div> */}
             </nav>
           </div>
         </div>
