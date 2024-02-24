@@ -43,7 +43,7 @@ const BlogGrid = () => {
                                             <a>We have plots ready from 3.5 – 12m</a>
                                         </Link>
                                     </h3>
-                                    <p>For this estate you can make an innitial deposit of 30% and pay the rest amount in installments.</p>
+                                    <p>For this estate you can make an initial deposit of 30% and pay the rest amount in installments.</p>
                                 </div>
                             </div>
                         </div>

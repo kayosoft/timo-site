@@ -24,7 +24,7 @@ const KeyFeatures = () => {
                 </p>
 
                 <div className="btn-box">
-                  <Link href="">
+                  <Link href="estates">
                     <a className="link-btn">See All Our Estates</a>
                   </Link>
                 </div>
