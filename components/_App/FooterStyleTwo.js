@@ -21,6 +21,9 @@ const FooterStyleTwo = () => {
                                 </Link>
 
                                 <p>We are a company dedicated to selling Milo land and estate development.</p>
+                                <p>Tel: (+256) 701287396</p>
+                                <p>Email: kalyango88@gmail.com</p>
+
 
                                 <ul className="social-links">
                                     <li>
