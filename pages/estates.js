@@ -35,7 +35,7 @@ const BlogGrid = () => {
                                     
                                     <h3>
                                         <Link href="/degeya-estate">
-                                            <a>50ft by 100ft plots for sale in Kiwenda Degeya Estate for 5m</a>
+                                            <a>50ft by 100ft plots for sale in Kiwenda Degeya Estate for 10m</a>
                                         </Link>
                                     </h3>
                                 </div>
@@ -57,7 +57,7 @@ const BlogGrid = () => {
                                 <div className="content">
                                 <h3>
                                         <Link href="/mukono-estate">
-                                            <a>50ft by 100ft plots for sale in Mukono, Kalagi Estate for 10m</a>
+                                            <a>50ft by 100ft plots for sale in Mukono, Kalagi Estate for 15m</a>
                                         </Link>
                                     </h3>
                                 </div>
