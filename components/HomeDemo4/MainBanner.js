@@ -11,7 +11,7 @@ const MainBanner = () => {
                         <h1>Own your land today</h1>
                         <span className="sub-title">We have the best payment plans</span>
 
-                        <img src="/images/banner/land-4.jpg" alt="image" />
+                        <img src="/images/banner/land-49.jpg" alt="image" />
                     </div>
                 </div>
                 

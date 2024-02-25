@@ -1,6 +1,6 @@
 import React from 'react';
-import NavbarStyleTwo from '@/components/_App/NavbarStyleTwo';
-import MainBanner from '@/components/HomeDemo4/MainBanner';
+import NavbarStyleOne from '@/components/_App/NavbarStyleOne';
+import MainBanner from '@/components/HomeDemo9/MainBanner';
 import Features from '@/components/HomeDemo2/Features';
 import KeyFeatures from '@/components/HomeDemo2/KeyFeatures';
 import AppProgressStyle2 from '@/components/Common/AppProgressStyle2';
@@ -16,7 +16,7 @@ import FooterStyleTwo from '@/components/_App/FooterStyleTwo';
 const IndexPage = () => {
     return (
         <>
-            <NavbarStyleTwo /> 
+            <NavbarStyleOne /> 
 
             <MainBanner />
 

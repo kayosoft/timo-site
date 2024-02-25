@@ -2,8 +2,11 @@
 Main Banner Area CSS
 =================================================*/
 .main-banner {
-  background: linear-gradient(42.99deg, #3F75FF 10.19%, #44A6FF 50.48%, #4ADEFF 94.28%);
-  padding-top: 160px;
+  /* background: linear-gradient(42.99deg, #02602b 10.19%, #04863d 50.48%, #4ADEFF 94.28%); */
+  background-image: url('/images/banner/land-4.jpg');
+  background-size: cover;
+  background-position: center;
+  padding-top: 100px;
   position: relative;
   z-index: 1;
 }
@@ -17,15 +20,15 @@ Main Banner Area CSS
   color: var(--whiteColor);
   display: inline-block;
   border-radius: 30px;
-  margin-bottom: 20px;
-  padding: 7px 20px;
+  margin-bottom: 10px;
+  padding: 7px 10px;
 }
 
 .main-banner .content h1 {
   color: var(--whiteColor);
   max-width: 960px;
   line-height: 1.4;
-  font-size: 48px;
+  font-size: 36px;
   margin-left: auto;
   margin-right: auto;
 }

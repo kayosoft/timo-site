@@ -22,28 +22,22 @@ const BlogGrid = () => {
                         <div className="col-lg-4 col-md-6">
                             <div className="single-blog-post">
                                 <div className="image">
-                                    <Link href="">
+                                    <Link href="/degeya-estate">
                                         <a className="d-block">
                                             <img src="/images/banner/land-5.jpg" alt="blog" />
                                         </a>
                                     </Link>
-                                    <Link href="">
+                                    <Link href="/degeya-estate">
                                         <a className="tag">Kiwenda Degeya Estate</a>
                                     </Link>
                                 </div>
                                 <div className="content">
-                                    <ul className="meta">
-                                        <li>
-                                            <i className="ri-time-line"></i>2km from Tarmac
-                                        </li>
-                                        
-                                    </ul>
+                                    
                                     <h3>
-                                        <Link href="">
-                                            <a>We have plots ready from 3.5 – 12m</a>
+                                        <Link href="/degeya-estate">
+                                            <a>50ft by 100ft plots for sale in Kiwenda Degeya Estate for 5m</a>
                                         </Link>
                                     </h3>
-                                    <p>For this estate you can make an initial deposit of 30% and pay the rest amount in installments.</p>
                                 </div>
                             </div>
                         </div>
@@ -51,29 +45,21 @@ const BlogGrid = () => {
                         <div className="col-lg-4 col-md-6">
                             <div className="single-blog-post">
                                 <div className="image">
-                                    <Link href="">
+                                    <Link href="/mukono-estate">
                                         <a className="d-block">
                                             <img src="/images/banner/land-6.jpg" alt="blog" />
                                         </a>
                                     </Link>
-                                    <Link href="">
+                                    <Link href="/mukono-estate">
                                         <a className="tag">Mukono, Kalagi Estate</a>
                                     </Link>
                                 </div>
                                 <div className="content">
-                                    <ul className="meta">
-                                        <li>
-                                            <i className="ri-time-line"></i> 
-                                            2km from Tarmac
-                                        </li>
-                                        
-                                    </ul>
-                                    <h3>
-                                        <Link href="">
-                                            <a>Our plots here range from 5m to 25m</a>
+                                <h3>
+                                        <Link href="/mukono-estate">
+                                            <a>50ft by 100ft plots for sale in Mukono, Kalagi Estate for 10m</a>
                                         </Link>
                                     </h3>
-                                    <p>Get your self a plot with the best payment plans possible.</p>
                                 </div>
                             </div>
                         </div>
@@ -81,29 +67,21 @@ const BlogGrid = () => {
                         <div className="col-lg-4 col-md-6">
                             <div className="single-blog-post">
                                 <div className="image">
-                                    <Link href="">
+                                    <Link href="/gayaza-estate">
                                         <a className="d-block">
                                             <img src="/images/banner/land-8.jpg" alt="blog" />
                                         </a>
                                     </Link>
-                                    <Link href="">
+                                    <Link href="/gayaza-estate">
                                         <a className="tag">Gayaza Kiwenda Estate</a>
                                     </Link>
                                 </div>
                                 <div className="content">
-                                    <ul className="meta">
-                                        <li>
-                                            <i className="ri-time-line"></i> 
-                                            1.5km from Tarmac
-                                        </li>
-                                       
-                                    </ul>
-                                    <h3>
-                                        <Link href="">
-                                            <a>We have plots ready from 30 – 50m</a>
+                                <h3>
+                                        <Link href="/gayaza-estate">
+                                            <a>50ft by 100ft plots for sale in Gayaza, Kiwenda Estate for 45m</a>
                                         </Link>
                                     </h3>
-                                    <p>We have a flexible payment plan, make initial deposit of 50% and pay  the remaining amount in installments.</p>
                                 </div>
                             </div>
                         </div>
