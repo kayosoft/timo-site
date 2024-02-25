@@ -32,7 +32,7 @@ const ContactInfo = () => {
                                     <div className="icon bg2">
                                         <i className="ri-map-pin-line"></i>
                                     </div>
-                                    <h3>121 Ktlm Road, Kampala, Kawempe.</h3>
+                                    <h3>2nd Floor,Lourdel Towers, Plot 1, Lourdel Road, Nakasero.</h3>
                                 </div>
                             </div>
                         </div>
