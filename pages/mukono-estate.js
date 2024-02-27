@@ -12,10 +12,10 @@ const BlogGrid = () => {
       <NavbarStyleTwo />
 
       <PageBannerStyle2
-        pageTitle="Mukono, Kalagi"
+        pageTitle="Mukono, Kalagi Estate"
         homePageUrl="/"
         homePageText="Home"
-        activePageText="Mukono, Kalagi"
+        activePageText="Mukono, Kalagi Estate"
       />
 
       <div className="blog-details-area ptb-100">

@@ -12,11 +12,13 @@ import PricingPlanStyle2 from '@/components/PricingPlan/PricingPlanStyle2';
 import FreeTrialStyle2 from '@/components/Common/FreeTrialStyle2';
 import PartnerStyle1 from '@/components/Common/PartnerStyle1'
 import FooterStyleTwo from '@/components/_App/FooterStyleTwo';
+import NavbarStyleThree from '@/components/_App/NavbarStyleThree';
+import NavbarStyleFour from '@/components/_App/NavbarStyleFour';
  
 const IndexPage = () => {
     return (
         <>
-            <NavbarStyleOne /> 
+            <NavbarStyleFour /> 
 
             <MainBanner />
 
