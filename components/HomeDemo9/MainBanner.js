@@ -20,7 +20,7 @@ const MainBanner = () => {
                             <ScrollAnimation animateIn='fadeInLeft' duration={2} animateOnce={true} initiallyVisible={true}>
                                 <div className="new-app-main-banner-gradient-image">
                                     <img 
-                                        src="/images/about/land-title.png" 
+                                        src="/images/about/land-title-2.png" 
                                         alt="image" 
                                     />
                                 </div>
