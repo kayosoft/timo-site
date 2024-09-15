@@ -21,6 +21,27 @@ const Plots = () => {
         <div className="container">
           <div className="row justify-content-center">
             <PropertyCard
+              description={"Entebbe Estate"}
+              size={"50ft * 100ft"}
+              price={"85m"}
+              image={"/images/banner/land-15.jpeg"}
+              rate={"5(20)"}
+            />
+            <PropertyCard
+              description={"Kira Estate"}
+              size={"50ft * 100ft"}
+              price={"65m"}
+              image={"/images/banner/land-8.jpg"}
+              rate={"5(10)"}
+            />
+            <PropertyCard
+              description={"Kajjansi Estate"}
+              size={"50ft * 100ft"}
+              price={"60m"}
+              image={"/images/banner/land-14.jpeg"}
+              rate={"3(10)"}
+            />
+            <PropertyCard
               description={"Kiwenda Degeya Estate"}
               size={"50ft * 100ft"}
               price={"10m and above"}
@@ -45,21 +66,21 @@ const Plots = () => {
               description={"Mukono, Bajo Estate - New"}
               size={"50ft * 100ft"}
               price={"30m"}
-              image={"/images/banner/land-3.jpg"}
+              image={"/images/banner/land-20.jpeg"}
               rate={"5(50)"}
             />
             <PropertyCard
               description={"Mukono, Bukonyo Estate"}
               size={"50ft * 100ft"}
               price={"20m"}
-              image={"/images/banner/land-4.jpg"}
+              image={"/images/banner/land-13.jpeg"}
               rate={"4(30)"}
             />
             <PropertyCard
               description={"Gayaza Kiwenda Upper Estate"}
               size={"50ft * 100ft"}
               price={"35m"}
-              image={"/images/banner/land-2.jpeg"}
+              image={"/images/banner/land-17.jpeg"}
               rate={"2(10)"}
             />
           </div>
