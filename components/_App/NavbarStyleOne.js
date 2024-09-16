@@ -67,7 +67,7 @@ const NavbarStyleOne = () => {
                   <li className="nav-item">
                     <Link href="/about-modern" activeClassName="active">
                       <a onClick={toggleNavbar} className="nav-link">
-                        About Us
+                        Ebitukwata Ko
                       </a>
                     </Link>
                   </li>
@@ -75,7 +75,7 @@ const NavbarStyleOne = () => {
                   <li className="nav-item">
                     <Link href="/estates" activeClassName="active">
                       <a onClick={toggleNavbar} className="nav-link">
-                        Our Estates
+                        Esiteeti Zaffe
                       </a>
                     </Link>
                   </li>
@@ -83,7 +83,7 @@ const NavbarStyleOne = () => {
                   <li className="nav-item">
                     <Link href="/contact" activeClassName="active">
                       <a onClick={toggleNavbar} className="nav-link">
-                        Contact
+                        Endagiliro
                       </a>
                     </Link>
                   </li>

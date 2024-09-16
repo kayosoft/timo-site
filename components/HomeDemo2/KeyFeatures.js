@@ -9,23 +9,19 @@ const KeyFeatures = () => {
           <div className="row align-items-center">
             <div className="col-lg-6 col-md-12">
               <div className="features-content">
-                <h2>Discover Your Perfect Property</h2>
+                <h2>Lambula ofune</h2>
                 <p>
-                  Discover a diverse range of land listings tailored to suit
-                  various preferences and investment objectives. From sprawling
-                  rural landscapes to strategically located urban parcels, our
-                  curated selection of properties offers something for every
-                  vision and budget. With in-depth market analysis, thorough due
-                  diligence, and personalized guidance, we empower buyers to
-                  make informed decisions and sellers to maximize the value of
-                  their land assets. Let us be your trusted partner in
-                  navigating the complexities of land transactions, turning your
-                  land aspirations into reality.
+                  Zuula etaka elyenjawulo mu Esiteeti Zafe eligwa mu ekyo
+                  kyenyini kyolubilila okukola okuva ku taka elili ewala mu
+                  kyaalo, mu bunene bweweetaga eligwa mu buli bageti yo, Tulina
+                  etaka kubuli luguudo olufuluma ekyibuga, Tuyambako abaguzi
+                  okusalawo obulungyi, Twesige mu lugendo lwo olwwo kugula
+                  Etaka, toja kwejusa.
                 </p>
 
                 <div className="btn-box">
                   <Link href="estates">
-                    <a className="link-btn">See All Our Estates</a>
+                    <a className="link-btn">Esiteeti Zafe</a>
                   </Link>
                 </div>
               </div>

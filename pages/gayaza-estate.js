@@ -32,19 +32,19 @@ const BlogGrid = () => {
 
                 <div className="article-content">
                   <p>
-                    This estate is located 1.5km off Gayaza Zirobwe Road in
-                    Kiwenda town, ideal for residential and commerncial
-                    infrustructure. Electricity and water are readily available
-                    on-site. Secure yourself a 50ft*100ft plot of land for 45
-                    million with cash payment or 50 million in installment
-                    payments. We offer a flexible payment program where clients
-                    deposit only 50 percent of the plot price and are given up
-                    to 2 years for installment payments. Upon completion of
-                    payment, a land title and signed transfer forms will be
-                    issued to you. Contact me to schedule a site visit at your
-                    convenience to gain a clearer understanding of the estate.
+                    Esangabigwa kilo mita Emu ne kyitundu (1.5km) mu towuni ye
+                    Gayaza, Eno ye Esteeti ye Gayaza Zirobwe, Eno Nungyi ku
+                    bagala okuzimba Amaka Agokusulamu no nokukola bizinensi,
+                    Amasanyalaze na Maazi weegali, Wefuni poloti Eno ku muliyoni
+                    Aana mu Taano 45m woba Osasulilaeo kaashi oba miliyoni
+                    Ataano (50m) Ku kyibanja mpola, Tulina Enssasula Ya kyibanja
+                    Mpola , Sasulako ebintundu Ataano Kubuli Kyikumi oweebwe
+                    paka Emyaaka ebili okumalayo Balance, Bwonamalayo sente
+                    Zini, Oja ku weebwa Ekyaapa kya Poloti Joguze ne Mpapula
+                    ezokukyuusa Ekyapa Kyino, Kubilako tutegeke oje olambule
+                    Esteeti eno ku bude bwona bwoyagalila osobole okutegeera
+                    Ekyitundu Kyino Bulungyi.
                   </p>
-                  
 
                   <ul className="wp-block-gallery columns-3">
                     <li className="blocks-gallery-item">

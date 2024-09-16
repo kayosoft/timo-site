@@ -35,17 +35,18 @@ const BlogGrid = () => {
 
                 <div className="article-content">
                   <p>
-                    Located 4km off Hoima Road in Kiwenda town, this is the
-                    Kiwenda Degeya Estate, ideal for residential and farming
-                    purposes. Electricity and water are readily available
-                    on-site. Secure yourself a 50ft*100ft plot of land for 10
-                    million with cash payment or 12 million in installment
-                    payments. We offer a flexible payment program where clients
-                    deposit only 50 percent of the plot price and are given up
-                    to 2 years for installment payments. Upon completion of
-                    payment, a land title and signed transfer forms will be
-                    issued to you. Contact me to schedule a site visit at your
-                    convenience to gain a clearer understanding of the estate.
+                    Esangabigwa kilo mita Nya (4km) mu towuni ye kiwenda, Eno ye
+                    Esteeti ye Kiwenda Gegeya, Eno Nungyi ku bagala okuzimba
+                    Amaka Agokusulamu no kulunda Ebisolo, Amasanyalaze na Maazi
+                    weegali, Wefuni poloti Eno ku muliyoni Kumi 10m woba
+                    Osasulilaeo kaashi oba miliyoni Kumi Nabili (12m) Ku
+                    kyibanja mpola, Tulina Enssasula Ya kyibanja Mpola ,
+                    Sasulako ebintundu Ataano Kubuli Kyikumi oweebwe paka
+                    Emyaaka ebili okumalayo Balance, Bwonamalayo sente Zini, Oja
+                    ku weebwa Ekyaapa kya Poloti Joguze ne Mpapula ezokukyuusa
+                    Ekyapa Kyino, Kubilako tutegeke oje olambule Esteeti eno ku
+                    bude bwona bwoyagalila osobole okutegeera Ekyitundu Kyino
+                    Bulungyi.
                   </p>
 
                   <ul className="wp-block-gallery columns-3">

@@ -24,40 +24,51 @@ const BlogGrid = () => {
             <div className="col-lg-12 col-md-12">
               <div className="blog-details-desc">
                 <div className="article-image">
-                  <img src="/images/banner/mukono/land-4.jpeg" alt="estate-details" />
+                  <img
+                    src="/images/banner/mukono/land-4.jpeg"
+                    alt="estate-details"
+                  />
                 </div>
 
                 <div className="article-content">
-                  
-
-                  
                   <p>
-                    Located 2km from Kalagi Town in Mukono district, the estate is suitable for
-                    residential and farm use. electricity and water are
-                    available on site, get your self a 50ft* 100ft plot of land
-                    at 15 million cash payment and 18 million in installment
-                    payments, we have a flexible paymet program where a client
-                    deposits only 50 percent of plot price and you are given upto
-                    2 years of installment payment upon which a land title is
-                    given to you together with signed transfer forms. Contact us
-                    to schedule a site visit at any of the sites and you get a
-                    better understanding of the estate.
+                    Esangabigwa kilo mita bili (2km) mu towuni ye Mukono, Eno ye
+                    Esteeti ye Mukono Kalagi, Eno Nungyi ku bagala okuzimba
+                    Amaka Agokusulamu no kulunda Ebisolo, Amasanyalaze na Maazi
+                    weegali, Wefuni poloti Eno ku muliyoni Kumi nataano 15m woba
+                    Osasulilaeo kaashi oba miliyoni Kumi Namunaana (18m) Ku
+                    kyibanja mpola, Tulina Enssasula Ya kyibanja Mpola ,
+                    Sasulako ebintundu Ataano Kubuli Kyikumi oweebwe paka
+                    Emyaaka ebili okumalayo Balance, Bwonamalayo sente Zini, Oja
+                    ku weebwa Ekyaapa kya Poloti Joguze ne Mpapula ezokukyuusa
+                    Ekyapa Kyino, Kubilako tutegeke oje olambule Esteeti eno ku
+                    bude bwona bwoyagalila osobole okutegeera Ekyitundu Kyino
+                    Bulungyi.
                   </p>
-                  
+
                   <ul className="wp-block-gallery columns-3">
                     <li className="blocks-gallery-item">
                       <figure>
-                        <img src="/images/banner/mukono/land-2.jpeg" alt="image" />
+                        <img
+                          src="/images/banner/mukono/land-2.jpeg"
+                          alt="image"
+                        />
                       </figure>
                     </li>
                     <li className="blocks-gallery-item">
                       <figure>
-                        <img src="/images/banner/mukono/land-3.jpeg" alt="image" />
+                        <img
+                          src="/images/banner/mukono/land-3.jpeg"
+                          alt="image"
+                        />
                       </figure>
                     </li>
                     <li className="blocks-gallery-item">
                       <figure>
-                        <img src="/images/banner/mukono/land-1.jpeg" alt="image" />
+                        <img
+                          src="/images/banner/mukono/land-1.jpeg"
+                          alt="image"
+                        />
                       </figure>
                     </li>
                   </ul>
