@@ -68,14 +68,14 @@ const BlogGrid = () => {
                 </div>
               </div>
             </div>
-            <PropertyCard
+            {/* <PropertyCard
               description={
                 "50ft by 100ft plots for sale in Mukono, Kalagi Estate for 15m"
               }
               size={"50ft*100ft"}
               price={"500m"}
               image={"/images/banner/land-6.jpg"}
-            />
+            /> */}
             <div className="col-lg-4 col-md-6">
               <div className="single-blog-post">
                 <div className="image">
